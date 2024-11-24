@@ -13,6 +13,7 @@ REDIRECTS = {
     'ds': 'https://docs.google.com/document/d/e/2PACX-1vR6Bok57e8gFHiON7V8C7FcWP3wSSWuNVl8hZGKLck9Ix5lYdxHzdi5XY_Wjqzbn0WjK1-vNbdRDFad/pub',
     'hero-guide': 'https://docs.google.com/document/d/e/2PACX-1vTQuixEW693cEUCtyKcEi3xBVAwH1i6LeRbJe60ydvDDnme-bqTYhPn-_nJagG5luhbvztrF-ZVA6yY/pub',
     'hg': 'https://docs.google.com/document/d/e/2PACX-1vTQuixEW693cEUCtyKcEi3xBVAwH1i6LeRbJe60ydvDDnme-bqTYhPn-_nJagG5luhbvztrF-ZVA6yY/pub',
+    'repo': 'https://github.com/arghonot-cold/cwo-cold',
     'zombie-siege': 'https://docs.google.com/document/d/e/2PACX-1vRXSZUG4zfv5t0hfr0jbyrlUn9gVNaQZk0V7aXly61sctGtQ82fvJGrs19ROdkkEMBOPxYNLtE9GaMC/pub',
     'zs': 'https://docs.google.com/document/d/e/2PACX-1vRXSZUG4zfv5t0hfr0jbyrlUn9gVNaQZk0V7aXly61sctGtQ82fvJGrs19ROdkkEMBOPxYNLtE9GaMC/pub'
 }
