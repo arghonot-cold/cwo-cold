@@ -5,15 +5,24 @@ app = Flask(__name__)
 REDIRECTS = {
     'alliance-duel': 'https://onedrive.live.com/view.aspx?resid=E2B14D0055DFD195!928&authkey=!AGrueymaK74JlB4',
     'ad': 'https://onedrive.live.com/view.aspx?resid=E2B14D0055DFD195!928&authkey=!AGrueymaK74JlB4',
+
     'arms-race': 'https://www.google.com/url?q=https://1drv.ms/b/s!ApXR31UATbHihxeUBB7vjcuuPfim&sa=D&source=editors&ust=1731634807746009&usg=AOvVaw0H9N4ktDDOHPzotB8LnWIJ',
     'ar': 'https://www.google.com/url?q=https://1drv.ms/b/s!ApXR31UATbHihxeUBB7vjcuuPfim&sa=D&source=editors&ust=1731634807746009&usg=AOvVaw0H9N4ktDDOHPzotB8LnWIJ',
+
     'capitol-defense': 'https://docs.google.com/document/d/e/2PACX-1vSJfxEs-HG1WVgqLCGfwSjlt64wvsZUfUpvUAe1uVrH-XpkIfrLLMxTHcnCTbwOBaf6SJVsC0Rehg1m/pub',
     'cd': 'https://docs.google.com/document/d/e/2PACX-1vSJfxEs-HG1WVgqLCGfwSjlt64wvsZUfUpvUAe1uVrH-XpkIfrLLMxTHcnCTbwOBaf6SJVsC0Rehg1m/pub',
+
     'desert-storm': 'https://docs.google.com/document/d/e/2PACX-1vR6Bok57e8gFHiON7V8C7FcWP3wSSWuNVl8hZGKLck9Ix5lYdxHzdi5XY_Wjqzbn0WjK1-vNbdRDFad/pub',
     'ds': 'https://docs.google.com/document/d/e/2PACX-1vR6Bok57e8gFHiON7V8C7FcWP3wSSWuNVl8hZGKLck9Ix5lYdxHzdi5XY_Wjqzbn0WjK1-vNbdRDFad/pub',
+    'ds-discord': 'https://discord.com/channels/1308137846024179762/1308138419813089311',
+
+    'discord': 'https://discord.com/channels/1308137846024179762/1308137847093592116',
+
     'hero-guide': 'https://docs.google.com/document/d/e/2PACX-1vTQuixEW693cEUCtyKcEi3xBVAwH1i6LeRbJe60ydvDDnme-bqTYhPn-_nJagG5luhbvztrF-ZVA6yY/pub',
     'hg': 'https://docs.google.com/document/d/e/2PACX-1vTQuixEW693cEUCtyKcEi3xBVAwH1i6LeRbJe60ydvDDnme-bqTYhPn-_nJagG5luhbvztrF-ZVA6yY/pub',
+
     'repo': 'https://github.com/arghonot-cold/cwo-cold',
+
     'zombie-siege': 'https://docs.google.com/document/d/e/2PACX-1vRXSZUG4zfv5t0hfr0jbyrlUn9gVNaQZk0V7aXly61sctGtQ82fvJGrs19ROdkkEMBOPxYNLtE9GaMC/pub',
     'zs': 'https://docs.google.com/document/d/e/2PACX-1vRXSZUG4zfv5t0hfr0jbyrlUn9gVNaQZk0V7aXly61sctGtQ82fvJGrs19ROdkkEMBOPxYNLtE9GaMC/pub'
 }
